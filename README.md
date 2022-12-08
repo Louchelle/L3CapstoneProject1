@@ -1,4 +1,4 @@
-# L3CapstoneProject1
+# poisedDatabase
 Modifying POISED to work with database
 
 This is a modification to POISED capstone project I had done in the previous level of my bootcamp.
